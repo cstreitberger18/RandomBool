@@ -1,0 +1,19 @@
+{
+    "name": "cstreitberger18/random-bool",
+    "description": "A project to generate a random bool.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cstreitberger18\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christoph Streitberger",
+            "email": "cstreitberger@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
